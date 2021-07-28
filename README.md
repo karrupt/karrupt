@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @proacher. I'm enthusiastic about learning new things. I also like Competitive Coding. 
-- 👀 I’m interested in the field of Data Science.
+- 👋 Hi, I’m @proacher. I'm enthusiastic about learning new things. I also like Competitive Coding and developing. 
+- 👀 I’m especially interested in the field of Data Science.
 - 🌱 I have started learning machine learning. 
      Any suggestions  are welcomed.
 - 💞️ I’m looking to collaborate on projects related to machine learning.
